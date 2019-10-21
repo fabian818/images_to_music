@@ -25,4 +25,4 @@ sphinx-rtd-theme==0.4.1
 sphinxcontrib-websupport==1.1.0
 Unidecode==1.0.22
 uqbar==0.2.15
-urllib3==1.23
+urllib3==1.24.2
